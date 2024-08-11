@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Same Race Family Mod</name>
+    <author>EROGLIFF2606k</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>This mod ensures that family relationships are only created between pawns of the same race.</description>
+</ModMetaData>
