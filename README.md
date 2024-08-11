@@ -1,0 +1,1 @@
+This mod fixes the strange thing in Rim World game. From the Biotech dlc we've got new races. Oftentimes the game creates relationships with pawns from various races. It makes me mad. So with this mod new relationships will be created only between the pawns from the same races (xenotypes.
